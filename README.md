@@ -31,6 +31,7 @@ Mongoose (ODM)
 Installation:
 
 Client-side: npm install axios bootstrap react react-dom react-router-dom
+
 Server-side: npm install bcrypt cors express mongoose nodemon
 
 
